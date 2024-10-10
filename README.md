@@ -11,17 +11,18 @@ How to Play:
      -> If you make a mistake, the game will end, and your current score and high score will be displayed.
      
      -> Press any key to restart the game.
-     
+
 Features:
 
      -> Dynamic Difficulty: The game difficulty increases as the sequence grows with each level.
-     <img width="960" alt="Screenshot 2024-10-10 180206" src="https://github.com/user-attachments/assets/e56386d3-c893-4e39-bf7f-89f878a76881">
+<img width="457" alt="Screenshot 2024-10-10 181424" src="https://github.com/user-attachments/assets/0b8be1f7-41e6-40ec-b711-f1fc07d653cf">
 
      
      -> Visual & Audio Feedback: Each button provides a flash effect to indicate game and user actions.
      
      -> High Score Tracking: The game tracks and displays the highest level reached by the player.
-     <img width="960" alt="Screenshot 2024-10-10 180327" src="https://github.com/user-attachments/assets/04cf3c0a-723a-409b-bfdf-9cee28b5e935">
+<img width="556" alt="Screenshot 2024-10-10 181359" src="https://github.com/user-attachments/assets/fb78ef87-dc36-45b0-99cd-abc1044ab26d">
+
 
      
      -> Responsive Design: Works across various screen sizes.
