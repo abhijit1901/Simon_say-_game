@@ -1,4 +1,4 @@
-# Simon_say-_game
+# Simon_say-_game. https://abhijit1901.github.io/Simon_say-_game/
 
 How to Play:
 
